@@ -20,5 +20,5 @@ func main() {
 		}(numbergoroutine)
 	}
 	wg.Wait()
-	//gsdg
+	//gsdg23
 }
